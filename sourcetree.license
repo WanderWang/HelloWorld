@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Name</key>
+	<string>Wander</string>
+	<key>Email</key>
+	<string>wander.wang@egret-labs.org</string>
+	<key>Product</key>
+	<string>SourceTree</string>
+	<key>Signature</key>
+	<data>uC4218Mxxjm3lwCZ1ApgY7rB7ORRtAXPI18Y+/iTCJxSppxNxPJjrQRzepS6NJ6C4S32UDNQn+lA
+MQGHmxK7449dQPz2ApTwbR5dGA6S5f073ey4sHc3v02qM114dtDmxfmzbHFy1DwjGmd86SN3WTBn
+OUWA5pZCjrzcH1bt3mw=
+</data>
+</dict>
+</plist>
